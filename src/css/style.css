@@ -187,7 +187,7 @@ footer .makeby {
     font-size: 16px;
     color:#deecfa;
 }
-#content .header {
+#content .head {
     width: 100%;
     height: 50px;
     background:#f6f8fa;
@@ -197,7 +197,7 @@ footer .makeby {
     padding: 0 15px;
     color:#182633;
 }
-#content .header .red {
+#content .head .red {
     float:right;
     border-radius: 100%;
     width: 20px;
@@ -206,7 +206,7 @@ footer .makeby {
     margin-top: 15px;
     margin-right: 15px;
 }
-#content .header .green {
+#content .head .green {
     float:right;
     border-radius: 100%;
     width: 20px;
