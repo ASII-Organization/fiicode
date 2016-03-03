@@ -215,6 +215,29 @@ footer .makeby {
     margin-top: 15px;
     margin-right: 15px;
 }
+.selectPerson {
+    margin-top: 20px !important;
+}
+.selectPerson i {
+    font-size: 25px;
+    color:#0d71bb;
+}
+.selectPerson {
+    text-align:center;
+}
+.formularDeInscriere .ui.segment {
+    border: 1px solid #ededed;
+    border-radius: 3px;
+    min-height: 30px !important;
+}
+.centerform {
+    margin:auto;
+    width: 40%;
+    max-width: 800px;
+}
+label span {
+    color: #c9302c;
+}
 @media(max-width: 980px) {
     nav {
         display: none;
@@ -238,5 +261,8 @@ footer .makeby {
     }
     .ui.container {
         margin-right: 0 !important;
+    }
+    .centerform {
+        width: 95%;
     }
 }
